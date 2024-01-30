@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// need to add deposit calculator
 public class BankingApplication {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
